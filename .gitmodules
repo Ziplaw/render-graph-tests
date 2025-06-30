@@ -1,0 +1,3 @@
+[submodule "Assets/eye-adaptation"]
+	path = Assets/eye-adaptation
+	url = https://github.com/ziplaw/eye-adaptation.git
