@@ -158,7 +158,6 @@ namespace FAE
 
             GetRootFolder();
 
-            //TODO: Package up current shaders
             if (config == ShaderInstallation.BuiltIn)
             {
                 //AssetDatabase.ExportPackage(PACKAGE_ROOT_FOLDER + "/Shaders/URP", packagePath, ExportPackageOptions.Default | ExportPackageOptions.Recurse);
